@@ -11,6 +11,6 @@ Welcome to my profile! A am curious and passionate front-end developer (beginner
 
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## My projects worth mentioning
+## My projects 
 
 [![Virtual Keyboard Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=virtual-keyboard-task)](https://github.com/yellographics/virtual-keyboard-task) [![HTML-Builder Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=HTML-builder)](https://github.com/yellographics/HTML-builder)
