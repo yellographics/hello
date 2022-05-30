@@ -1,3 +1,3 @@
-# Hi I'm Anna! 👋
+# Hi there! 👋
 
 
