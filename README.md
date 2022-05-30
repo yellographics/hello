@@ -14,3 +14,5 @@ Welcome to my profile! I am a curious and passionate front-end developer (beginn
 ## My projects 
 
 [![Virtual Keyboard Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=virtual-keyboard-task)](https://github.com/yellographics/virtual-keyboard-task) [![HTML-Builder Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=HTML-builder)](https://github.com/yellographics/HTML-builder)
+
+_
