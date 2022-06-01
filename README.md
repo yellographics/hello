@@ -24,7 +24,7 @@ Welcome to my profile! I am a curious and passionate front-end developer (beginn
 
 - strengthen knowledge in JS (work with objects, classes, prototypes)
 - learn TypeScript 
-- learn to work better with Web Storage
+- learn how to work better with Web Storage
 - explore React
 
 
