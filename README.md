@@ -13,7 +13,7 @@ Welcome to my profile! I am a curious and passionate front-end developer (beginn
 
 ## My projects and tasks
 
-[![Pure HTML/CSS Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=HTML-CSS-PRACTICE)](https://github.com/yellographics/HTML-CSS-PRACTICE)
+[![Pure HTML/CSS Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=HTML-CSS-PRACTICE)](https://github.com/yellographics/HTML-CSS-PRACTICE) [![Player Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=AUDIO-PLAYER)](https://github.com/yellographics/AUDIO-PLAYER)
 
 [![Shelter Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=SHELTER)](https://github.com/yellographics/SHELTER)
 
