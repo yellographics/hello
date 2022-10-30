@@ -20,7 +20,12 @@ Welcome to my profile! I am a curious and passionate front-end developer (beginn
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) 
 
 ## My projects and tasks 
+[![Pure HTML/CSS Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=HTML-CSS-PRACTICE)](https://github.com/yellographics/HTML-CSS-PRACTICE) [![Player Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=AUDIO-PLAYER)](https://github.com/yellographics/AUDIO-PLAYER)
 
+[![Shelter Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=SHELTER)](https://github.com/yellographics/SHELTER) [![Game Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=match-match-game)](https://github.com/yellographics/match-match-game)
+
+
+[![Virtual Keyboard Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=virtual-keyboard-task)](https://github.com/yellographics/virtual-keyboard-task) [![HTML-Builder Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=HTML-builder)](https://github.com/yellographics/HTML-builder)
 
 
 ## Besides that ...
