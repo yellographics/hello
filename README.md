@@ -29,7 +29,7 @@ Welcome to my profile! I am a curious and passionate front-end developer (beginn
 [![Virtual Keyboard Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=virtual-keyboard-task)](https://github.com/yellographics/virtual-keyboard-task) [![HTML-Builder Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=HTML-builder)](https://github.com/yellographics/HTML-builder)
 
 ## Besides that ...
-I got a Trainee position, where I was able to lear Angular, RxJs and testing tools such as Jasmine/Jest. I worked on a banking project, developing new features with Angular, reviewing colleauges' code and discussing my work with a team (BA, QA, UX Designers and Backend developers).
+I got a Trainee position, where I was able to learn Angular, RxJS and testing tools such as Jasmine/Jest. I worked on a banking project, developing new features with Angular, reviewing colleauges' code and discussing my work with a team (BA, QA, UX Designers and Backend developers).
 
 ## What I plan to do next
 
