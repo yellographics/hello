@@ -13,6 +13,8 @@ Welcome to my profile! I am a curious and passionate front-end developer (beginn
 
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![MATERIALUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
+![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
 ## My projects and tasks
 
 [![Pure HTML/CSS Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=HTML-CSS-PRACTICE)](https://github.com/yellographics/HTML-CSS-PRACTICE) [![Player Card](https://github-readme-stats.vercel.app/api/pin/?username=yellographics&repo=AUDIO-PLAYER)](https://github.com/yellographics/AUDIO-PLAYER)
