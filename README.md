@@ -3,7 +3,7 @@
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-nescierowicz-4005476b/) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anna_nsc)
 
 #
-Welcome to my profile! I am a curious and passionate front-end developer (beginner). I have been studying and practicing this incredibly interesting area for almost a 1,5+ year now. Can't wait to start working on cool projects. In the meantime, look what I've been learning all this time
+Welcome to my profile! I am a curious and passionate front-end developer. I have been studying and practicing this incredibly interesting area for almost a 3+ years now. In the meantime, look what I've been learning all this time
 
 ## Technologies I've worked with
 
